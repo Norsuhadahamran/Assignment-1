@@ -38,3 +38,10 @@ Hiring for full time position software engineering by LinkedIn:
 https://www.linkedin.com/company/airasia/life/sustainability/
 
 # Reflection 
+
+Point 1: Strong in Fundamental
+AirAsia is the big company, and the recruitment process will be more challenging. So to join AirAsia.com, I need to be strong in fundamentals. It is because based on the carrier talk, Mr. Shahrul informs the typical day-to-day activities of a software engineer in AirAsia, including daily stand-ups, code reviews, and the importance of well-defined processes.
+
+Point 2: Pointing & Step.
+Working at AirAsia, some software engineers will work from home. So my reflection is that when WFH we will get many obstacles that will be faced, especially in communication. Some coworkers do not understand what we deliver, and to make it understandable is not easy. So to deliver our massage, we can make it in point or step. We also need to keep in contact so all information that is needed can be delivered in good time and we can submit the task based on criteria.
+
