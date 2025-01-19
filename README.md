@@ -11,7 +11,7 @@ Working culture in AirAsia is very different from the working culture in other p
 AirAsia products and services make it easier, cheaper and more convenient for people to visit places and shop for their travel and lifestyle needs.
 Air Asia businesses now include an online marketplace (airasia shop) for food and groceries (airasia food, airasia fresh). AirAsia making logistics and banking more accessible (Teleport, BigPay), linking farms with businesses (OurFarm), and offering online tech education and entrepreneurship (Redbeat Academy)
 
-AirAsia is a major Malaysian low-cost airline that has grown to become a significant player in the global aviation industry. Founded in 1993, it has expanded to offer flights to over 166 destinations in 25 countries, with a network of affiliate airlines across Southeast Asia.   
+AirAsia is a major Malaysian low-cost airline that has grown to become a significant player in the global aviation industry. Founded in 2001, it has expanded to offer flights to over 166 destinations in 25 countries, with a network of affiliate airlines across Southeast Asia.   
 
 Known for its innovative and affordable travel options, AirAsia has been recognized as the World's Best Low-Cost Airline by Skytrax for 15 consecutive years. It has also played a key role in making Kuala Lumpur International Airport a major hub for low-cost carriers.   
 
