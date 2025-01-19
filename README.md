@@ -36,6 +36,7 @@ https://mycareer.airasia.com/gb/en
 
 Hiring for full time position software engineering by LinkedIn:
 https://www.linkedin.com/company/airasia/life/sustainability/
+[![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fairasia%2Flife%2Fsustainability%2F)
 
 # Reflection 
 
