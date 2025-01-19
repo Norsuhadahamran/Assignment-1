@@ -1,23 +1,40 @@
 # Assignment-1
-Overview in ICT jobs in Industry 
+Overview in ICT jobs in Industry with AirAsia
 
-# Overview
-The University of Technology Malaysia sponsored a webinar to highlight the digital transformation of AirAsia and software engineering employment opportunities. Representatives from AirAsia, including Sanjit, Head of Recruitment, and software developers Shadrul and Daniel, gave talks at the event. Sanjit emphasized the interdependence of services while highlighting the company's transformation from a low-cost airline to a full-fledged travel and lifestyle ecosystem. Shadrul highlighted several departments inside the organization and underlined the value of accountability and ownership in a software engineer's daily work. Head of Software Engineering Daniel talked about his experiences working remotely, clearing up misunderstandings and encouraging an accountable culture. AirAsia's Digital Recruitment Unit representative Bowie provided details on internships, which are offered all year long and usually last three months. The webinar provided students with a clear understanding of the skills and experiences required to succeed in a software engineering career at AirAsia.
+# executive summary
+I have heard the sharing shared by Mr. Shadrul and Mr. Danial about their experience working at AirAsia.
+From the sharing from Mr. Shardul, the manager, Software Engineering AirAsia, I was interested in the internship opportunities given to prospective software engineering graduates from UTM which gives them the opportunity to gain experience at AirAsia. The job opportunities given in the field of software engineering are frontend developer, backend developer, DevOps/SRE, Data Engineer, Data Scientist, Tester and Business Analyst. The typical day-to-day activities of a software engineer in AirAsia, including daily stand-ups, code reviews, and the importance of well-defined processes.
+Working culture in AirAsia is very different from the working culture in other places, they practice "No Sir culture" where they do not call Sir or Madam even though they have a high rank, they only call by name because AirAsia considers "all employees are stars". so if no sir culture i think we will start comfort with everyone and easy to share any idea and feedback each other. Through the sharing from Mr. Danial, the Head of Software Engineering AirAsia also attracted my attention. Mr. Danial shared that he has working experience in software engineering for 20 years and said that working at AirAsia is the best experience because working in the department can work from home where when WFH we can arrange our time without having to be tied to working hours. En Danial shared that when WFH we can be more flexible in our time and no morning commute, but WFH also give bad impact it is because when WFH it is hard to connect with your coworkers, it is less productive and less accountability. Therefore, Mr. Danial shared WFH tips such as first, designated physical workspace. Second, set up a routine, your morning ritual. Third is communication, use all the channels of communication and always pick up the phone and call. Forth is to avoid meeting fatigue, block your calendar, i.e. Lunch. Fifth is reserved time for social interaction with your coworkers and lastly is switch off at the end of the day.
 
 
-# Content
-This video is a recording of a career fair presentation given by AirAsia representatives to students at the University of Technology Malaysia (UTM).  The presentation covers several key areas:
+# About AirAsia
+AirAsia products and services make it easier, cheaper and more convenient for people to visit places and shop for their travel and lifestyle needs.
+Air Asia businesses now include an online marketplace (airasia shop) for food and groceries (airasia food, airasia fresh). AirAsia making logistics and banking more accessible (Teleport, BigPay), linking farms with businesses (OurFarm), and offering online tech education and entrepreneurship (Redbeat Academy)
 
-# AirAsia's Digital Transformation:
-The company's evolution from a low-cost airline to a broader travel and lifestyle digital company is detailed, highlighting its various ventures such as airasia.com (super app), Teleport (logistics), BigPay (fintech), and Redbit Academy (training).  The presenters emphasize the company's early adoption of digital technologies and its ongoing commitment to innovation.
+AirAsia is a major Malaysian low-cost airline that has grown to become a significant player in the global aviation industry. Founded in 1993, it has expanded to offer flights to over 166 destinations in 25 countries, with a network of affiliate airlines across Southeast Asia.   
 
-# Software Engineering at AirAsia:
-The presentation provides insights into the different roles within AirAsia's software engineering teams, including front-end, back-end development, DevOps, testing, data engineering, data science, and business analysis.  The speakers describe the typical day-to-day activities of a software engineer, including daily stand-ups, code reviews, and the importance of well-defined processes.
+Known for its innovative and affordable travel options, AirAsia has been recognized as the World's Best Low-Cost Airline by Skytrax for 15 consecutive years. It has also played a key role in making Kuala Lumpur International Airport a major hub for low-cost carriers.   
 
-# Working from Home:
-A significant portion of the presentation focuses on the realities of working from home at AirAsia, addressing common misconceptions and providing practical tips for maintaining productivity and work-life balance.
+
+
+# Path Carrier at AirAsia:
+-  frontend developer
+-  backend developer
+-  DevOps/SRE
+-  Data Engineer
+-  Data Scientist
+-  Tester and Business Analyst
+
 
 # Recruitment and Internship Opportunities:
-The presenters discuss internship opportunities at AirAsia, providing details on the timeline, duration, and application process. They encourage students to submit their resumes via a QR code and LinkedIn.  Full-time positions are also mentioned.
+Hiring for software engineering interns:
+![image](https://github.com/user-attachments/assets/6b5c5620-4054-4576-8dd0-9e1bda53c6c5)
 
-In short, the video aims to recruit software engineering students from UTM by showcasing AirAsia's dynamic digital environment, its diverse career opportunities, and its work culture.
+
+Hiring for full time software engineering by website:
+https://mycareer.airasia.com/gb/en
+
+Hiring for full time position software engineering by LinkedIn:
+https://www.linkedin.com/company/airasia/life/sustainability/
+
+# Reflection 
